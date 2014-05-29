@@ -1,10 +1,16 @@
 <<<<<<< HEAD
 author: manimaran
 date: 27-4-2013
+update: 30-5-2014
 mail: manimaran990@gmail.com
 
 this is my exercise app. i'm creating a addressbook in python.
 without using databases. this one is simple
+
+update: 27-4-2013
+
+added front end gui in pyqt for the addressbook
+that stores the data in a file in a CSV manner
 =======
 add your description
 >>>>>>> origin/master
